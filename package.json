@@ -1,0 +1,14 @@
+{
+  "name": "fp_island",
+  "version": "1.0.0",
+  "description": "FRENCH POLYNESIA ISLANDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian B",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.11.3"
+  }
+}
